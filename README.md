@@ -4,7 +4,7 @@ An open-source Python package for nonparametric discrete choice estimation.
 Key features:
 * Nonparametric estimation of panel discrete choice models
     - Employs latent-class approximation 
-* Powered by Jax, Google's GPU-accelerated scientific computing suite
+* Powered by JAX, Google's GPU-accelerated scientific computing suite
 
 Future additions:
 * Fixed-grid approximation, both with (conditional) logit and (multinomial) probit link functions
