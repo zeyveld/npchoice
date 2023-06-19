@@ -17,6 +17,6 @@ Future additions:
     - At present, code assumes data are pre-sorted by agent 
 * Systematic user documentation
 
-My code for the LBFGS algorithm is based on code from the open-source Python package <i>xlogit</i>.
+My code for the LBFGS algorithm is based on code from the open-source Python package <i>xlogit</i>:
 
 > Arteaga, C., Park, J., Beeramoole, P. B., & Paz, A. (2022). xlogit: An open-source Python package for GPU-accelerated estimation of Mixed Logit models. Journal of Choice Modelling, 42, 100339. https://doi.org/10.1016/j.jocm.2021.100339
