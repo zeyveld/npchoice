@@ -14,7 +14,7 @@ Future additions:
         * Lasso, à la [Fox, Kim, Ryan and Bajari (2011, QE)](https://doi.org/10.3982/QE49)
         * EM algorithm, à la [Train (2008, JOCM)](https://doi.org/10.1016/S1755-5345(13)70022-8)
 * Hyperparameter tuning utilities 
-    - Computation of Aikake Information Criterion and Bayesian Information Criterion
+    - Computation of Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC)
     - Automated cross validation
 * Automated data pre-processing 
     - At present, code assumes data are pre-sorted by agent 
